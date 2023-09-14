@@ -3,7 +3,7 @@
 /**
  * main - main entry
  *
- * return: 0 if success
+ * Return: Always 0 (success)
  */
 
 int main(void)
@@ -13,4 +13,4 @@ int main(void)
 	puts(statement);
 
 	return (0);
-}	
+}
